@@ -1,7 +1,6 @@
 ## generated-videos
 
-Samples of videos generated using Vid2Pix. All videos contain 20 generated frames.  
-
+Samples of videos generated from 6 experiments. The 6th and final experiment is called Vid2Pix. All videos contain 10 generated frames.
 
 
 #### Experiment 1
