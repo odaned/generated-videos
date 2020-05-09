@@ -11,7 +11,7 @@ Samples of videos generated using Vid2Pix. All videos contain 20 generated frame
 ![gif](experiment_O3DF2.gif) ![gif](experiment_O3DF2_1) 
 
 #### Experiment 3
-![gif](experiment_O3DD3.gif) ![gif](eexperiment_O3DD3_1) 
+![gif](experiment_O3DD3.gif) ![gif](experiment_O3DD3_1) 
 
 #### Experiment 4
 ![gif](experiment_O3DM4.gif) ![gif](experiment_O3DM4_1) 
