@@ -1,25 +1,31 @@
 ## generated-videos
 
-Samples of videos generated from 6 experiments. The 6th and final experiment is named Vid2Pix. All videos contain 10 generated frames.
+Samples of videos generated from 9 model experiments. The final model is experiment: "2D output" named Vid2Pix. All videos contain 4 generated frames.
 
 
-#### Experiment 1
-![gif](experiment_O3DA1.gif) ![gif](experiment_O3DA1_1.gif) 
+#### Original Pix2Pix
+![gif](gifs/gif_0_0) ![gif](gifs/gif_0_1) ![gif](gifs/gif_0_2) ![gif](gifs/gif_0_3) 
 
-#### Experiment 2
-![gif](experiment_O3DF2.gif) ![gif](experiment_O3DF2_1) 
+#### Replace with 3D layers
+![gif](gifs/gif_1_0) ![gif](gifs/gif_1_1) ![gif](gifs/gif_1_2) ![gif](gifs/gif_1_3) 
 
-#### Experiment 3
-![gif](experiment_O3DD3.gif) ![gif](experiment_O3DD3_1) 
+#### Change filter size
+![gif](gifs/gif_2_0) ![gif](gifs/gif_2_1) ![gif](gifs/gif_2_2) ![gif](gifs/gif_2_3) 
 
-#### Experiment 4
-![gif](experiment_O3DM4.gif) ![gif](experiment_O3DM4_1) 
+#### Offset Downsampling
+![gif](gifs/gif_3_0) ![gif](gifs/gif_3_1) ![gif](gifs/gif_3_2) ![gif](gifs/gif_3_3) 
 
-#### Experiment 5
-![gif](experiment_O3DS5.gif) ![gif](experiment_O3DS5_1) 
+#### Reduce discriminator complexity
+![gif](gifs/gif_4_0) ![gif](gifs/gif_4_1) ![gif](gifs/gif_4_2) ![gif](gifs/gif_4_3) 
 
-#### Experiment 6
-![gif](4069jz.gif) ![gif](4069uh.gif) ![gif](406a3r.gif) ![gif](4069z5.gif)
+#### Keep more features
+![gif](gifs/gif_5_0) ![gif](gifs/gif_5_1) ![gif](gifs/gif_5_2) ![gif](gifs/gif_5_3) 
 
-#### Experiment 7
-![gif](experiment_O3DO7.gif) ![gif](experiment_O3DO7_1.gif) 
+#### Add noise early stopping
+![gif](gifs/gif_6_0) ![gif](gifs/gif_6_1) ![gif](gifs/gif_6_2) ![gif](gifs/gif_6_3) 
+
+#### 2D output Vid2Pix
+![gif](gifs/gif_7_0) ![gif](gifs/gif_7_1) ![gif](gifs/gif_7_2) ![gif](gifs/gif_7_3) 
+
+#### 2D output 7 1000 epochs
+![gif](gifs/gif_7_1_0) ![gif](gifs/gif_7_1_1) ![gif](gifs/gif_7_1_2) ![gif](gifs/gif_7_1_3) 
